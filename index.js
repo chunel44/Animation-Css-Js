@@ -22,7 +22,7 @@ let animateHTML = function() {
     }
     
     return {
-      init: init
+      init
     }
   }
   
